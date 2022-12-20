@@ -1,7 +1,7 @@
 <header>
         <div align="center">
             <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="" width="200">
-            <h1 align="center">hola,👋🏼soy samanta belarde ❤️</h1>
+            <h1 align="center">hola,👋🏼me llamo samanta belarde ❤️</h1>
             <h4 align="center">I love programming, I started recently and I am learning HTML and CSS, in 2023 I start the Data Science career.</h4>
         </div>
     </header>
